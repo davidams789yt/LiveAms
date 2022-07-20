@@ -1,0 +1,9 @@
+name: LiveAms
+description: El plugin LiveAms de davidams789
+author: davidams789
+main: me.davidams789.LiveAms.Main
+version: 1.0.0
+
+commands:
+  directo:
+    description: El comando Directo del plugin LiveAms
